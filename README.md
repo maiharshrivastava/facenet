@@ -44,4 +44,4 @@ Ensure you have the following installed:
 ## Future Work
 
 The current iteration of our system leverages traditional Machine Learning algorithms for facial detection and identification tasks. Moving forward, we aim to explore and integrate Deep Learning techniques to enhance the system's accuracy and efficiency.
-.
+
